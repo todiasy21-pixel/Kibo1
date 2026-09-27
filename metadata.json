@@ -1,0 +1,6 @@
+{
+  "name": "NidBudget - Budget Familial Mensuel",
+  "description": "Application complète de gestion de budget familial mensuel : suivi des revenus, charges fixes, dépenses des membres, enveloppes budgétaires, épargne et reste à vivre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
